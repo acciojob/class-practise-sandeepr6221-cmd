@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.blue{
+	font-color:blue;
+	background-color:#eee;
+     font-family:Arial;
+	font-size:20px;
+}
